@@ -1,0 +1,7 @@
+__pycache__/
+.env
+.venv/
+uploads/
+*.pyc
+resume_analyzer.db
+exports/
